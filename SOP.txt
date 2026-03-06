@@ -1,0 +1,5 @@
+Load Data.csv
+run test3.py
+run TeleScope_Active.py
+run test4.py
+run test5.py
